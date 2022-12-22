@@ -2,4 +2,4 @@
 
 botha competition 2022 dec artlist landing page
 
-sass files are in the zip
+sass can be provided if needed
